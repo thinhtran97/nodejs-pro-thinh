@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-pro-thinh",
+  "version": "1.0.0",
+  "description": "nodejs pro thinhtran",
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "homepage": "https://github.com/thinhtran97/nodejs-pro-thinh#readme",
+  "bugs": {
+    "url": "https://github.com/thinhtran97/nodejs-pro-thinh/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thinhtran97/nodejs-pro-thinh.git"
+  },
+  "license": "ISC",
+  "author": "thinhtran",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
